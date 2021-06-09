@@ -1,0 +1,5 @@
+**/artifacts/*
+
+*.json
+.DS_Store
+.env
